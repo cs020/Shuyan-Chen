@@ -1,6 +1,7 @@
 ## Shuyan Chen - Homepage
+![image](https://github.com/cs020/shuyanchen/blob/gh-pages/Shuyan.png)<p> Google Scholar<a class="git-link" href="https://scholar.google.com/citations?user=IMz69gQAAAAJ&hl=en"></a> 
 
-I am a Ph.D. student in the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of by Prof. Lian-Kuan Chen. 
+I am a Ph.D. student in the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of by Prof. Lian-Kuan Chen.  <p>
 
 ### Research Interests
 
