@@ -13,4 +13,4 @@ I am a Ph.D. student in the Department of Information Engineering, The Chinese U
 #### Journal
 [1]	S. Chen, L. Liu and L. -K. Chen, "On the Nonlinear Distortion Characterization in Photovoltaic Modules for Visible Light Communication," in IEEE Photonics Technology Letters, vol. 33, no. 24, pp. 1467-1470, 15 Dec.15, 2021, doi: 10.1109/LPT.2021.3128680.
 #### Conference
-[2]	S. Chen, L. Liu and L. -K. Chen, " Passive Nonlinear Compensation Circuits for Photovoltaic Visible Light Communications under Low Illuminance," in Optical Fiber Communication Conference (OFC), in San Diego, California, USA 2022
+[1]	S. Chen, L. Liu and L. -K. Chen, " Passive Nonlinear Compensation Circuits for Photovoltaic Visible Light Communications under Low Illuminance," in Optical Fiber Communication Conference (OFC), in San Diego, California, USA 2022
