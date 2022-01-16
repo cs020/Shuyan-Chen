@@ -4,7 +4,7 @@ I am a Ph.D. student in the Department of Information Engineering, The Chinese U
 
 ### Research Interests
 
-Thanks to all the generous support from Prof. L.K. Chen, I am currently focusing on Photovoltaic-Based Visible Light Communication (PV-VLC) researches.<p> 
+Thanks to all the generous support from Prof. L.K. Chen, I am currently focusing on Photovoltaic-Based Visible Light Communication (PV-VLC) researches.
 Besides PV-VLC, I am also highly interested in designing real-time FPGA communication systems and analog circuits for signal linaerization.
 
 ### Codes
