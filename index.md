@@ -1,12 +1,10 @@
 ## Shuyan Chen - Homepage
 
-You can use the [editor on GitHub](https://github.com/cs020/shuyanchen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Ph.D. student in the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of by Prof. Lian-Kuan Chen. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research Interests
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Thanks to all the generous support from Prof. Chen, I am currently focusing on Photovoltaic-Based Visible Light Communication (PV-VLC) researches. Besides PV-VLC, I am also highly interested in designing real-time FPGA communication systems and analog circuits for signal linaerization.
 
 ```markdown
 Syntax highlighted code block
